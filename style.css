@@ -1,0 +1,40 @@
+.wizytowka {
+    border: solid black 2px;
+    margin: 0 auto;
+    display: flex;
+    width: 400px;
+    height: 200px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
+
+.kwadratowy {
+    border-radius: 0px;
+}
+
+.okrogly {
+    border-radius: 10px;
+}
+
+.bardziej {
+    border-radius: 30px;
+}
+
+.red {
+background-color:red;
+}
+.blue{
+    background-color:blue;
+}
+.orange{
+background-color: orange;
+
+}
+
+
+
+.kwadratowy {
+
+
+}
